@@ -6,4 +6,5 @@ legs
 shop keeper
 golden apples
 blue bananas
+big melons
 
