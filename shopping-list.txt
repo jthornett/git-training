@@ -1,9 +1,8 @@
-weasels
-stoats
+blue bananas
 chips
-video cassettes
+golden apples
 legs
 shop keeper
-golden apples
-blue bananas
-
+stoats
+video cassettes
+weasels
